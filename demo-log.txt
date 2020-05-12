@@ -1,50 +1,50 @@
-MLA843116615;Monitor Dell P2419h Led 24  Negro 110v/220v;MLA14407;Monitores
-MLA852423966;Router Cisco Rv042g Negro;MLA430901;Routers
-MLA828808750;Monitor Dell P2418ht Led 23.8  Negro 110v/220v;MLA14407;Monitores
-MLA832075048;Mouse Microsoft Mobile Sculpt Negro;MLA1714;Mouses
-MLA852433951;Router Cisco Rv320 Negro;MLA430901;Routers
-MLA790641629;Monitor Dell 24 Profesional P2419h - Modelo Nuevo! Ex-p2417h;MLA14407;Monitores
-MLA609550688;Ups Apc Easy 500va Estabilizador Y Protector De Tension Con Ahorro De Energia Gtia Oficial 2 Años;MLA1720;UPS
-MLA614270244;Ups Apc 1000va Para Pc Gamer Simil Bx1100 Bv1000i-ar Estabilizador Y Protector De Tension Gtia Oficial 2 Años;MLA1720;UPS
-MLA609714710;Ups Apc 900va Back-ups 6 Tomas Estabilizador Y Protector De Tension Gtia Oficial 2años Br900 Para Tv, Play, Pc;MLA1720;UPS
-MLA625205834;Ups Apc 800va 6 T Estabilizador Y Protector De Tension Gtia Oficial 2 Años Bx800 Para Tv, Play, Equipos De Audio;MLA1720;UPS
-MLA754900689;Unidad Imagen Lexmark Mx Ms 317/417/517 60000p 50f0z00;MLA3560;Tóners
-MLA799477264;Router Cisco Rv110w Inalambrico Vpn Firewall Wifi N Rv110;MLA430901;Routers
-MLA619999038;Ups Apc 550va 3 Tomas Gtia Oficial 2 Años Estabilizador Y Protector De Tension Con Ahorro De Energia;MLA1720;UPS
-MLA685442693;Switch Cisco 24 Puertos Gigabit Rack 10/100/1000;MLA1708;Switches
-MLA675254316;Router Cisco Inalambrico Vpn Firewall Wifi N Ipv6 (ipsec, Ip Security) Qos Gtia Oficial - Factura A Y B;MLA430901;Routers
-MLA723737462;Impresora Laser Lexmark Mb2338 Wi Fi Fotocopiadora Ex Mx317;MLA1676;Impresoras
-MLA689148569;Switch 8 Bocas Cisco 8 Puertos 10/100mbps Para Hogar Y Empresa - Garantia Oficial - Factura A Y B;MLA1708;Switches
-MLA607248903;Ups Apc 550va 3 Tomas Gtia Oficial 2 Años Estabilizador Y Protector De Tension Para El Hogar;MLA1720;UPS
-MLA659248541;Monitor Gamer Hd Dell Led Profesional 20 Dp Vertical;MLA14407;Monitores
-MLA609113448;Ups Apc 650va Back 3 Tomas Estabilizador Y Protector De Tension Con Ahorro De Energia Gtia Oficial Bx650;MLA1720;UPS
-MLA723629779;Notebook Dell Vostro I5 14 8g 256ssd Win10 Pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B;MLA1652;Notebooks
-MLA846965428;Ups Apc Bv500 Estabilizador Protector Tension Entreg Inmedit;MLA1720;UPS
-MLA795525213;Ups Apc Easy Bv500i-ar 500va Bv500 Gtia Oficial 2 Años;MLA1720;UPS
-MLA609714711;Ups Apc Back-ups Pro 550va 230 Estabilizador Y Protector De Tensión Con Ahorro De Energia Gtia Oficial Br550;MLA1720;UPS
-MLA677079403;Impresora Laser Monocromática Lexmark B2338dw Wifi Blanco Y Negro Libreria Comercial Oficio A4;MLA1676;Impresoras
-MLA812781294;Notebook Dell Vostro I5 16gb 256ssd 14hd Win10 Profesional;MLA1652;Notebooks
-MLA803069253;Monitor Dell 24 Profesional P2419h - Modelo Nuevo! Ex-p2417h;MLA14407;Monitores
-MLA846983372;Ups Apc Br900g-ar 900va 6 Tomas Estabilizador Gtia 2 Años;MLA1720;UPS
-MLA685428555;Switch Cisco 16 Puertos Port 10/100/1000 Rack (ex Sg100-16) Para Hogar Y Empresa - Garantia Oficial - Factura A Y B;MLA1708;Switches
-MLA640303035;Ups Apc Br1500g 1500va Estabilizador  Gtia 2 Años Br1500g-ar;MLA1720;UPS
-MLA714580671;Switch Cisco Sg250-26p Small Business 24 P Poe+ Sg250-26p-k9;MLA1708;Switches
-MLA731824834;Mouse Optico Microsoft Pc Notebook Compact Optical 500 Usb;MLA1714;Mouses
-MLA609116302;Ups Apc 1500va Con Ahorro De Energa Estabilizador Y Protector De Tension Gtia Oficial Ideal Para Uso Gamer;MLA1720;UPS
-MLA732941765;Teclado Microsoft All In One Smart Tv Inalambrico Original;MLA418448;Teclados Físicos
-MLA824929193;Toner Lexmark Original 504 1.500p Ms 310/610/415 Standard;MLA3560;Tóners
-MLA846968526;Ups Apc Bv1000 Estabilza Y Protege Tensión Entrega Inmediata;MLA1720;UPS
-MLA634471245;Scanner Portátil De Mano Iris Book 3 Iriscan Ocr Microsd Usb;MLA72721;Scanners
-MLA691355192;Notebook Dell Vostro I5 8gb 1tb 14 Win 10 Pro;MLA1652;Notebooks
-MLA679308411;Ups Apc Smt3000i 3000v 9 Tm Estabilizador Reemplazo Sua3000i;MLA1720;UPS
-MLA620157679;Ups Apc Smt1000i 1000v 6 Tm Estabilizador Smt1000;MLA1720;UPS
-MLA836677699;Ups Apc Srv1ki 1000v 3tm Easy Ups Srv 230v Estabilizador;MLA1720;UPS
-MLA678026676;Switch Cisco 24 Puertos 10/100 Rackeable No Adm Para Hogar Y Empresa - Garantia Oficial - Factura A Y B;MLA1708;Switches
-MLA763385654;Monitor Dell U2412m De 24 Pulgadas De 1920 X 1200 Led Cuotas;MLA14407;Monitores
-MLA608208322;Ups Apc Smt2200i Ar 2200v 8 Tm Estabilizador Reem Sua2200i;MLA1720;UPS
-MLA634198483;Escaner Iriscan Portatil Pro 5 Doble Cara Usb 3.0 Duplex;MLA72721;Scanners
-MLA838040211;Ups Apc Easy Bv650i-ar 650va Gtia Oficial 2 Años Bv650;MLA1720;UPS
-MLA696009826;Ups Apc 1000va Online Tower Gtia 2 Años;MLA1720;UPS
-MLA636238020;Impresora Laser Lexmark Mb2338adw Wi Fi Fotocopiadora Mx317;MLA1676;Impresoras
-MLA607202460;Ups Apc Smt1500i Ar 1500v 6 Tm Estabilizador Reemp Sua1500i;MLA1720;UPS
-MLA714545399;Switch Cisco Semi Admin 24 Puertos 10/100 2 Giga Sf220-24-k9;MLA1708;Switches
+179571326;MLA823677505;Monitor Dell P2419h Led 24  Negro 110v/220v;MLA14407;Monitores
+179571326;MLA852423966;Router Cisco Rv042g Negro;MLA430901;Routers
+179571326;MLA828808750;Monitor Dell P2418ht Led 23.8  Negro 110v/220v;MLA14407;Monitores
+179571326;MLA832075048;Mouse Microsoft Mobile Sculpt Negro;MLA1714;Mouses
+179571326;MLA852433951;Router Cisco Rv320 Negro;MLA430901;Routers
+179571326;MLA790641629;Monitor Dell 24 Profesional P2419h - Modelo Nuevo! Ex-p2417h;MLA14407;Monitores
+179571326;MLA609550688;Ups Apc Easy 500va Estabilizador Y Protector De Tension Con Ahorro De Energia Gtia Oficial 2 Años;MLA1720;UPS
+179571326;MLA614270244;Ups Apc 1000va Para Pc Gamer Simil Bx1100 Bv1000i-ar Estabilizador Y Protector De Tension Gtia Oficial 2 Años;MLA1720;UPS
+179571326;MLA609714710;Ups Apc 900va Back-ups 6 Tomas Estabilizador Y Protector De Tension Gtia Oficial 2años Br900 Para Tv, Play, Pc;MLA1720;UPS
+179571326;MLA763012088;Monitor Dell 24 Profesional P2419h 1080 60hz Vertical;MLA14407;Monitores
+179571326;MLA625205834;Ups Apc 800va 6 T Estabilizador Y Protector De Tension Gtia Oficial 2 Años Bx800 Para Tv, Play, Equipos De Audio;MLA1720;UPS
+179571326;MLA754900689;Unidad Imagen Lexmark Mx Ms 317/417/517 60000p 50f0z00;MLA3560;Tóners
+179571326;MLA799477264;Router Cisco Rv110w Inalambrico Vpn Firewall Wifi N Rv110;MLA430901;Routers
+179571326;MLA675254316;Router Cisco Inalambrico Vpn Firewall Wifi N Ipv6 (ipsec, Ip Security) Qos Gtia Oficial - Factura A Y B;MLA430901;Routers
+179571326;MLA619999038;Ups Apc 550va 3 Tomas Gtia Oficial 2 Años Estabilizador Y Protector De Tension Con Ahorro De Energia;MLA1720;UPS
+179571326;MLA685442693;Switch Cisco 24 Puertos Gigabit Rack 10/100/1000;MLA1708;Switches
+179571326;MLA723737462;Impresora Laser Lexmark Mb2338 Wi Fi Fotocopiadora Ex Mx317;MLA1676;Impresoras
+179571326;MLA689148569;Switch 8 Bocas Cisco 8 Puertos 10/100mbps Para Hogar Y Empresa - Garantia Oficial - Factura A Y B;MLA1708;Switches
+179571326;MLA607248903;Ups Apc 550va 3 Tomas Gtia Oficial 2 Años Estabilizador Y Protector De Tension Para El Hogar;MLA1720;UPS
+179571326;MLA846968526;Ups Apc Bv1000 Estabilza Y Protege Tensión Entrega Inmediata;MLA1720;UPS
+179571326;MLA659248541;Monitor Gamer Hd Dell Led Profesional 20 Dp Vertical;MLA14407;Monitores
+179571326;MLA609113448;Ups Apc 650va Back 3 Tomas Estabilizador Y Protector De Tension Con Ahorro De Energia Gtia Oficial Bx650;MLA1720;UPS
+179571326;MLA846965428;Ups Apc Bv500 Estabilizador Protector Tension Entreg Inmedit;MLA1720;UPS
+179571326;MLA723629779;Notebook Dell Vostro I5 14 8g 256ssd Win10 Pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B;MLA1652;Notebooks
+179571326;MLA795525213;Ups Apc Easy Bv500i-ar 500va Bv500 Gtia Oficial 2 Años;MLA1720;UPS
+179571326;MLA609714711;Ups Apc Back-ups Pro 550va 230 Estabilizador Y Protector De Tensión Con Ahorro De Energia Gtia Oficial Br550;MLA1720;UPS
+179571326;MLA677079403;Impresora Laser Monocromática Lexmark B2338dw Wifi Blanco Y Negro Libreria Comercial Oficio A4;MLA1676;Impresoras
+179571326;MLA803069253;Monitor Dell 24 Profesional P2419h - Modelo Nuevo! Ex-p2417h;MLA14407;Monitores
+179571326;MLA685428555;Switch Cisco 16 Puertos Port 10/100/1000 Rack (ex Sg100-16) Para Hogar Y Empresa - Garantia Oficial - Factura A Y B;MLA1708;Switches
+179571326;MLA846983372;Ups Apc Br900g-ar 900va 6 Tomas Estabilizador Gtia 2 Años;MLA1720;UPS
+179571326;MLA714580671;Switch Cisco Sg250-26p Small Business 24 P Poe+ Sg250-26p-k9;MLA1708;Switches
+179571326;MLA731824834;Mouse Optico Microsoft Pc Notebook Compact Optical 500 Usb;MLA1714;Mouses
+179571326;MLA609116302;Ups Apc 1500va Con Ahorro De Energa Estabilizador Y Protector De Tension Gtia Oficial Ideal Para Uso Gamer;MLA1720;UPS
+179571326;MLA640303035;Ups Apc Br1500g 1500va Estabilizador  Gtia 2 Años Br1500g-ar;MLA1720;UPS
+179571326;MLA824929193;Toner Lexmark Original 504 1.500p Ms 310/610/415 Standard;MLA3560;Tóners
+179571326;MLA732941765;Teclado Microsoft All In One Smart Tv Inalambrico Original;MLA418448;Teclados Físicos
+179571326;MLA634471245;Scanner Portátil De Mano Iris Book 3 Iriscan Ocr Microsd Usb;MLA72721;Scanners
+179571326;MLA679308411;Ups Apc Smt3000i 3000v 9 Tm Estabilizador Reemplazo Sua3000i;MLA1720;UPS
+179571326;MLA620157679;Ups Apc Smt1000i 1000v 6 Tm Estabilizador Smt1000;MLA1720;UPS
+179571326;MLA836677699;Ups Apc Srv1ki 1000v 3tm Easy Ups Srv 230v Estabilizador;MLA1720;UPS
+179571326;MLA678026676;Switch Cisco 24 Puertos 10/100 Rackeable No Adm Para Hogar Y Empresa - Garantia Oficial - Factura A Y B;MLA1708;Switches
+179571326;MLA763385654;Monitor Dell U2412m De 24 Pulgadas De 1920 X 1200 Led Cuotas;MLA14407;Monitores
+179571326;MLA838040211;Ups Apc Easy Bv650i-ar 650va Gtia Oficial 2 Años Bv650;MLA1720;UPS
+179571326;MLA696009826;Ups Apc 1000va Online Tower Gtia 2 Años;MLA1720;UPS
+179571326;MLA608208322;Ups Apc Smt2200i Ar 2200v 8 Tm Estabilizador Reem Sua2200i;MLA1720;UPS
+179571326;MLA634198483;Escaner Iriscan Portatil Pro 5 Doble Cara Usb 3.0 Duplex;MLA72721;Scanners
+179571326;MLA636238020;Impresora Laser Lexmark Mb2338adw Wi Fi Fotocopiadora Mx317;MLA1676;Impresoras
+179571326;MLA607202460;Ups Apc Smt1500i Ar 1500v 6 Tm Estabilizador Reemp Sua1500i;MLA1720;UPS
+179571326;MLA714545399;Switch Cisco Semi Admin 24 Puertos 10/100 2 Giga Sf220-24-k9;MLA1708;Switches
+179571326;MLA694748613;Router Cisco Rv110w Inalambrico Vpn Firewall Wifi N Ipv;MLA430901;Routers
